@@ -1,0 +1,12 @@
+{
+  "pub_key": "BLS_VER_KEY~5wjPHJZAJHkesbwwrGQtuadlIoiLye9MZw8ufRpKFxfMqiJwCoqUTOb30arCCL_SwoVJKUmVeGeURUarvUEJDFefeLdDtjROo8745b74k5_AaUUrON8lAgmeq7Pgf-EgAjQs5kHK3KFCL7hqoPaKYanx-D-6yf7PeU33aogdPaCm",
+  "name": "ITRocket",
+  "description": "Trusted Validator & Contributor in various ecosystems",
+  "company_name": "ITRocket LLC",
+  "company_website": "https://itrocket.net/",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": { "@1x": "https://raw.githubusercontent.com/itrocket-am/data/refs/heads/main/espresso/itrocket_logo-14.png", "@2x": "https://raw.githubusercontent.com/itrocket-am/data/refs/heads/main/espresso/itrocket_logo-14.png", "@3x": "https://raw.githubusercontent.com/itrocket-am/data/refs/heads/main/espresso/itrocket_logo-14.png" },
+    "24x24": { "@1x": "https://raw.githubusercontent.com/itrocket-am/data/refs/heads/main/espresso/itrocket_logo-24.png", "@2x": "https://raw.githubusercontent.com/itrocket-am/data/refs/heads/main/espresso/itrocket_logo-24.png", "@3x": "https://raw.githubusercontent.com/itrocket-am/data/refs/heads/main/espresso/itrocket_logo-24.png" }
+  }
+}
